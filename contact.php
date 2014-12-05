@@ -1,4 +1,3 @@
-// Contact.PHP
 <?php
 echo "<BR>";
 echo $organization; 
